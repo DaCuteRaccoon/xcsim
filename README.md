@@ -6,6 +6,7 @@
 - [Chelan Butte (:us:) - 00:10:56 - 3.7 Km](https://xcsim.com/trackview3d.php?id=2751)
 - [Oludeniz (:tr:) - 00:38:08 - 15.54 Km](https://xcsim.com/trackview3d.php?id=2752)
 - [Jungfraujoch (:switzerland:) - 00:23:51 - 13.27 Km](https://xcsim.com/trackview3d.php?id=2755)
+- [Annecy Planfait (:fr:) - 00:10:38 - 4.13 Km](https://xcsim.com/trackview3d.php?id=2756)
 
 
 <!-- USAGE
